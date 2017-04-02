@@ -88,11 +88,8 @@ h3, h4 {
     -webkit-filter: grayscale(100%);
     filter: grayscale(100%);
 }
-*{
-  font-family: HelveticaLight;
-}
+
 .navbar {
-    font-family: HelveticaLight;
     margin-bottom: 0;
     background-color: #2d2d30;
     border: 0;
@@ -145,4 +142,7 @@ footer a:hover {
 }
 textarea {
     resize: none;
+}
+*{
+  font-family: HelveticaLight;
 }
