@@ -39,6 +39,9 @@ body, html {
 
 .w3-hover-opacity {
     cursor: pointer;
+    border: .001em solid;
+    border-color: #616161;
+    border-radius: 3px;
 }
 
 /* Turn off parallax scrolling for tablets and phones */
@@ -56,4 +59,10 @@ body, html {
 #BarImage{
     padding-right: 10px;
 }
-
+#PaddedContent{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+a{
+    text-decoration: none;
+}
